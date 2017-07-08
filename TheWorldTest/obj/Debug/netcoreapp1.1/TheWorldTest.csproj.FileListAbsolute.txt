@@ -1,0 +1,9 @@
+C:\Users\Admin\documents\visual studio 2017\Projects\TheWorld\TheWorldTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TheWorld\TheWorldTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TheWorld\TheWorldTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TheWorld\TheWorldTest\bin\Debug\netcoreapp1.1\TheWorldTest.deps.json
+C:\Users\Admin\documents\visual studio 2017\Projects\TheWorld\TheWorldTest\bin\Debug\netcoreapp1.1\TheWorldTest.runtimeconfig.json
+C:\Users\Admin\documents\visual studio 2017\Projects\TheWorld\TheWorldTest\bin\Debug\netcoreapp1.1\TheWorldTest.runtimeconfig.dev.json
+C:\Users\Admin\documents\visual studio 2017\Projects\TheWorld\TheWorldTest\bin\Debug\netcoreapp1.1\TheWorldTest.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TheWorld\TheWorldTest\obj\Debug\netcoreapp1.1\TheWorldTest.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2017\Projects\TheWorld\TheWorldTest\obj\Debug\netcoreapp1.1\TheWorldTest.AssemblyInfo.cs

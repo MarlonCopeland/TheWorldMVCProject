@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2017\Projects\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.deps.json
+c:\users\admin\documents\visual studio 2017\Projects\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.json
+c:\users\admin\documents\visual studio 2017\Projects\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.dev.json
+c:\users\admin\documents\visual studio 2017\Projects\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.dll
+c:\users\admin\documents\visual studio 2017\Projects\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.pdb
+c:\users\admin\documents\visual studio 2017\Projects\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfo.cs
+c:\users\admin\documents\visual studio 2017\Projects\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.dll
+c:\users\admin\documents\visual studio 2017\Projects\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.pdb
