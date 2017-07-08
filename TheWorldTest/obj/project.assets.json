@@ -8575,10 +8575,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\documents\\visual studio 2017\\Projects\\TheWorld\\TheWorldTest\\TheWorldTest.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\TheWorldProject\\TheWorldTest\\TheWorldTest.csproj",
       "projectName": "TheWorldTest",
-      "projectPath": "C:\\Users\\Admin\\documents\\visual studio 2017\\Projects\\TheWorld\\TheWorldTest\\TheWorldTest.csproj",
-      "outputPath": "C:\\Users\\Admin\\documents\\visual studio 2017\\Projects\\TheWorld\\TheWorldTest\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\TheWorldProject\\TheWorldTest\\TheWorldTest.csproj",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\TheWorldProject\\TheWorldTest\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

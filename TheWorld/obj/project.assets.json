@@ -9705,10 +9705,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\documents\\visual studio 2017\\Projects\\TheWorld\\TheWorld\\TheWorld.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\TheWorldProject\\TheWorld\\TheWorld.csproj",
       "projectName": "TheWorld",
-      "projectPath": "C:\\Users\\Admin\\documents\\visual studio 2017\\Projects\\TheWorld\\TheWorld\\TheWorld.csproj",
-      "outputPath": "C:\\Users\\Admin\\documents\\visual studio 2017\\Projects\\TheWorld\\TheWorld\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\TheWorldProject\\TheWorld\\TheWorld.csproj",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\TheWorldProject\\TheWorld\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
